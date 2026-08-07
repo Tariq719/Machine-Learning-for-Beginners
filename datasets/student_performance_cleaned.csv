@@ -1,0 +1,146 @@
+student_id,full_name,gender,age,department,semester,marks,attendance_percentage,city,admission_date,email,scholarship,tuition_fee
+2024001,Muhammad Khan,male,20,SE,4,67,80.8,Bannu,2024-01-22,muhammad.khan2024001@itar.edu.pk,Yes,15000.0
+2024002,Ali Khan,male,23,DS,6,77,86.6,Kohat,2024-04-30,ali.khan2024002@itar.edu.pk,No,30000.0
+2024003,Ahmad Khan,male,18,CS,1,70,85.1,Peshawar,2024-12-08,ahmad.khan2024003@itar.edu.pk,No,50000.0
+2024004,Hamza Khan,male,19,DS,2,71,85.2,Bannu,2024-12-08,hamza.khan2024004@itar.edu.pk,No,30000.0
+2024005,Abdullah Khan,male,18,AI,1,82,84.2059405940594,Mardan,2024-01-01,abdullah.khan2024005@itar.edu.pk,Yes,25000.0
+2024006,Hassan Khan,male,21,CS,5,95,93.4,Peshawar,2024-08-03,hassan.khan2024006@itar.edu.pk,Yes,15000.0
+2024007,Bilal Khan,male,22,AI,4,83,85.5,Dera Ismail Khan,2024-11-04,bilal.khan2024007@itar.edu.pk,No,30000.0
+2024008,Fatima Khan,female,23,SE,6,70,85.2,Kohat,2024-11-04,fatima.khan2024008@itar.edu.pk,No,30000.0
+2024009,Usman Khan,male,22,AI,6,68,64.4,Peshawar,2024-02-23,Not Available,No,30000.0
+2024010,Awais Khan,male,19,IT,1,79,84.2059405940594,Islamabad,2024-12-13,awais.khan2024010@itar.edu.pk,No,50000.0
+2024011,Muhammad Ahmad,male,18,IT,1,80,84.2059405940594,Kohat,2024-05-25,muhammad.ahmad2024011,No,50000.0
+2024012,Talha Khan,male,21,SE,4,83,84.2059405940594,Islamabad,2024-05-13,talha.khan2024012@itar.edu.pk,Yes,15000.0
+2024013,Ayesha Khan,female,24,DS,6,78,80.5,Mardan,2024-04-08,ayesha.khan2024013@itar.edu.pk,No,30000.0
+2024014,Fahad Khan,male,18,SE,1,86,82.8,Bannu,2024-03-03,fahad.khan2024014@itar.edu.pk,No,50000.0
+2024015,Danish Khan,male,24,CS,8,81,84.2059405940594,Bannu,2024-03-03,danish.khan2024015@itar.edu.pk,No,30000.0
+2024016,Hina Khan,female,24,DS,8,91,89.3,Dera Ismail Khan,2024-12-07,hina.khan2024016@itar.edu.pk,No,30000.0
+2024017,Asad Khan,male,21,CS,4,78,84.2059405940594,Kohat,2024-11-22,asad.khan2024017@itar.edu.pk,No,30000.0
+2024018,Maryam Khan,male,22,DS,4,69,84.6,Bannu,2024-02-27,Not Available,No,30000.0
+2024019,Zainab Khan,female,21,AI,4,78,81.5,Kohat,2024-02-27,zainab.khan2024019@itar.edu.pk,Yes,30000.0
+2024020,Iqra Khan,female,24,CS,6,79,84.2059405940594,Bannu,2024-04-17,iqra.khan2024020@iqra.khan2024020@itar.edu.pk,No,30000.0
+2024021,Yasir Khan,male,18,CS,2,82,93.7,Kohat,2024-02-12,yasir.khan2024021@yasir.khan2024021@itar.edu.pk,Yes,15000.0
+2024022,Sana Khan,female,23,IT,7,85,84.2059405940594,Dera Ismail Khan,2024-02-03,sana.khan2024022@sana.khan2024022@itar.edu.pk,Yes,15000.0
+2024023,Shahzaib Khan,male,19,CS,3,74,81.8,Mardan,2024-11-22,shahzaib.khan2024023@shahzaib.khan2024023@itar.edu.pk,No,30000.0
+2024024,Adnan Khan,male,19,SE,1,82,84.2059405940594,Peshawar,2024-10-07,adnan.khan2024024,No,50000.0
+2024025,Rizwan Khan,male,22,CS,4,46,52.9,Dera Ismail Khan,2024-04-12,rizwan.khan2024025@rizwan.khan2024025@itar.edu.pk,Yes,15000.0
+2024026,Ali Ahmad,male,25,AI,8,79,51.3,Bannu,2024-01-25,ali.ahmad2024026@ali.ahmad2024026@itar.edu.pk,Yes,15000.0
+2024027,Mahnoor Khan,female,25,SE,7,82,83.3,Mardan,2024-04-07,mahnoor.khan2024027@mahnoor.khan2024027@itar.edu.pk,No,30000.0
+2024028,Junaid Khan,male,20,IT,3,86,88.5,Kohat,2024-07-05,junaid.khan2024028@junaid.khan2024028@itar.edu.pk,Yes,15000.0
+2024029,Sohail Khan,male,20,DS,4,81,94.2,Lahore,2024-09-30,sohail.khan2024029@sohail.khan2024029@itar.edu.pk,Yes,15000.0
+2024030,Kashif Khan,male,21,SE,4,76,90.5,Bannu,2024-11-25,kashif.khan2024030@kashif.khan2024030@itar.edu.pk,No,30000.0
+2024031,Komal Khan,female,25,SE,7,79,84.2059405940594,Kohat,2024-08-29,komal.khan2024031@komal.khan2024031@itar.edu.pk,No,30000.0
+2024032,Salman Khan,male,23,SE,5,78,84.2059405940594,Mardan,2024-08-07,salman.khan2024032,No,30000.0
+2024033,Arslan Khan,male,19,CS,1,81,84.2059405940594,Bannu,2024-11-25,arslan.khan2024033@arslan.khan2024033@itar.edu.pk,Yes,25000.0
+2024034,Waqar Khan,male,21,AI,5,78,91.7,Islamabad,2024-08-03,waqar.khan2024034@waqar.khan2024034@itar.edu.pk,Yes,15000.0
+2024035,Areeba Khan,female,24,CS,6,73,83.9,Quetta,2024-12-04,areeba.khan2024035@areeba.khan2024035@itar.edu.pk,No,30000.0
+2024036,Noor Khan,female,21,IT,3,66,84.2059405940594,Dera Ismail Khan,2024-11-05,noor.khan2024036,Yes,15000.0
+2024037,Sidra Khan,female,23,SE,5,86,82.2,Bannu,2024-12-01,sidra.khan2024037@sidra.khan2024037@itar.edu.pk,No,30000.0
+2024038,Shoaib Khan,male,18,CS,1,89,89.4,Bannu,2024-05-31,shoaib.khan2024038@shoaib.khan2024038@itar.edu.pk,No,50000.0
+2024039,Irfan Khan,male,25,IT,8,87,85.6,Kohat,2024-10-27,irfan.khan2024039@irfan.khan2024039@itar.edu.pk,No,30000.0
+2024040,Laiba Khan,female,25,CS,7,78,91.8,Bannu,2024-01-27,laiba.khan2024040@laiba.khan2024040@itar.edu.pk,No,30000.0
+2024041,Ahmad Ahmad,male,25,IT,7,79,84.2059405940594,Mardan,2024-02-23,ahmad.ahmad2024041@ahmad.ahmad2024041@itar.edu.pk,No,30000.0
+2024042,Sameer Khan,male,21,IT,3,78,89.3,Swat,2024-09-16,sameer.khan2024042@sameer.khan2024042@itar.edu.pk,No,30000.0
+2024043,Usaid Khan,male,25,IT,7,90,84.2059405940594,Swat,2024-04-28,usaid.khan2024043@usaid.khan2024043@itar.edu.pk,Yes,15000.0
+2024044,Anum Khan,female,24,CS,6,86,91.9,Swat,2024-11-19,anum.khan2024044,Yes,15000.0
+2024045,Mehwish Khan,female,23,IT,6,96,91.8,Swat,2024-06-21,mehwish.khan2024045@mehwish.khan2024045@itar.edu.pk,Yes,15000.0
+2024046,Rabia Khan,female,19,IT,1,73,87.2,Kohat,2024-12-30,rabia.khan2024046@rabia.khan2024046@itar.edu.pk,No,50000.0
+2024047,Kainat Khan,female,24,IT,8,57,84.2059405940594,Bannu,2024-12-17,Not Available,Yes,15000.0
+2024048,Sadia Khan,female,19,IT,2,93,91.2,Dera Ismail Khan,2024-09-17,sadia.khan2024048@sadia.khan2024048@itar.edu.pk,Yes,15000.0
+2024049,Haris Khan,male,19,CS,1,83,82.7,Mardan,2024-08-28,haris.khan2024049@haris.khan2024049@itar.edu.pk,No,50000.0
+2024050,Ahsan Khan,male,21,AI,7,85,84.2,Mardan,2024-04-25,ahsan.khan2024050@ahsan.khan2024050@itar.edu.pk,No,30000.0
+2024051,Saba Khan,female,24,AI,8,86,84.2059405940594,Islamabad,2024-01-25,saba.khan2024051,No,30000.0
+2024052,Maham Khan,female,22,CS,4,73,86.4,Swat,2024-08-15,maham.khan2024052@maham.khan2024052@itar.edu.pk,Yes,15000.0
+2024053,Eman Khan,female,18,IT,1,65,69.4,Peshawar,2024-05-02,eman.khan2024053@eman.khan2024053@itar.edu.pk,Yes,25000.0
+2024054,Bushra Khan,female,25,CS,7,90,88.2,Karachi,2024-10-28,bushra.khan2024054@bushra.khan2024054@itar.edu.pk,No,30000.0
+2024055,Muneeb Khan,male,25,DS,8,75,84.2059405940594,Bannu,2024-08-17,muneeb.khan2024055,Yes,15000.0
+2024056,Naveed Khan,male,19,CS,3,78,92.2,Mardan,2024-01-08,naveed.khan2024056@naveed.khan2024056@itar.edu.pk,Yes,15000.0
+2024057,Nimra Khan,female,20,CS,3,87,94.2,Swat,2024-07-01,nimra.khan2024057,Yes,15000.0
+2024058,Kamran Khan,male,20,AI,2,40,54.1,Bannu,2024-03-06,kamran.khan2024058,No,30000.0
+2024059,Hafsa Khan,female,25,AI,8,78,84.2059405940594,Islamabad,2024-09-12,hafsa.khan2024059@hafsa.khan2024059@itar.edu.pk,Yes,15000.0
+2024060,Shakir Khan,male,18,AI,1,84,92.0,Peshawar,2024-07-31,shakir.khan2024060,No,50000.0
+2024061,Aamir Khan,male,21,SE,3,83,87.3,Quetta,2024-07-11,aamir.khan2024061,No,30000.0
+2024062,Rimsha Khan,female,20,SE,4,70,82.9,Islamabad,2024-04-07,rimsha.khan2024062,No,30000.0
+2024063,Zeeshan Khan,male,19,SE,3,98,84.2059405940594,Mardan,2024-08-17,zeeshan.khan2024063@zeeshan.khan2024063@itar.edu.pk,Yes,15000.0
+2024064,Farhan Khan,male,21,AI,3,72,86.6,Lahore,2024-02-18,farhan.khan2024064,No,30000.0
+2024065,Rameez Khan,male,20,CS,3,89,94.2,Islamabad,2024-02-02,rameez.khan2024065@rameez.khan2024065@itar.edu.pk,Yes,15000.0
+2024066,Jawad Khan,male,22,AI,5,88,89.1,Islamabad,2024-06-13,jawad.khan2024066@jawad.khan2024066@itar.edu.pk,No,30000.0
+2024067,Rehan Khan,male,21,AI,8,78,84.2059405940594,Kohat,2024-03-18,rehan.khan2024067@rehan.khan2024067@itar.edu.pk,Yes,15000.0
+2024068,Alina Khan,female,22,IT,5,91,84.2059405940594,Kohat,2024-01-18,alina.khan2024068,No,30000.0
+2024069,Asif Khan,male,22,IT,4,82,87.1,Peshawar,2024-08-31,asif.khan2024069@asif.khan2024069@itar.edu.pk,No,30000.0
+2024070,Haider Khan,male,20,DS,2,73,83.3,Bannu,2024-09-03,haider.khan2024070@haider.khan2024070@itar.edu.pk,No,30000.0
+2024071,Imran Khan,male,21,AI,4,80,84.2059405940594,Lahore,2024-05-30,imran.khan2024071@imran.khan2024071@itar.edu.pk,No,30000.0
+2024072,Muhammad Ali,male,18,IT,2,77,85.0,Dera Ismail Khan,2024-11-08,muhammad.ali2024072,No,30000.0
+2024073,Sehrish Khan,female,23,SE,6,86,85.7,Bannu,2024-01-30,sehrish.khan2024073@sehrish.khan2024073@itar.edu.pk,No,30000.0
+2024074,Ali Ali,male,21,IT,5,89,90.4,Mardan,2024-05-19,ali.ali2024074,Yes,15000.0
+2024075,Ahmad Ali,male,20,CS,2,84,84.2059405940594,Peshawar,2024-12-23,ahmad.ali2024075@ahmad.ali2024075@itar.edu.pk,No,30000.0
+2024076,Hamza Ali,male,23,AI,6,95,92.1,Islamabad,2024-02-02,Not Available,Yes,15000.0
+2024077,Sonia Khan,female,24,SE,7,76,87.0,Swat,2024-06-25,sonia.khan2024077@sonia.khan2024077@itar.edu.pk,No,30000.0
+2024078,Amna Khan,female,22,CS,4,78,88.8,Lahore,2024-03-23,amna.khan2024078@amna.khan2024078@itar.edu.pk,No,30000.0
+2024079,Hoorain Khan,female,19,CS,2,75,84.2059405940594,Peshawar,2024-10-28,hoorain.khan2024079@hoorain.khan2024079@itar.edu.pk,No,30000.0
+2024080,Minal Khan,female,19,AI,1,71,80.7,Mardan,2024-01-14,minal.khan2024080,No,50000.0
+2024081,Fiza Khan,female,21,SE,5,72,82.4,Peshawar,2024-02-21,fiza.khan2024081,No,30000.0
+2024082,Abdullah Ali,male,18,IT,1,70,18.0,Dera Ismail Khan,2024-08-10,abdullah.ali2024082@abdullah.ali2024082@itar.edu.pk,No,50000.0
+2024083,Hassan Ali,male,19,IT,3,12,84.2059405940594,Mardan,2024-05-01,hassan.ali2024083,No,30000.0
+2024084,Bilal Ali,male,20,SE,2,73,81.5,Mardan,2024-03-28,bilal.ali2024084,Yes,15000.0
+2024085,Usman Ali,male,22,DS,5,88,91.5,Swat,2024-11-11,usman.ali2024085@usman.ali2024085@itar.edu.pk,Yes,15000.0
+2024086,Awais Ali,male,19,SE,2,88,84.7,Bannu,2024-10-18,awais.ali2024086,No,30000.0
+2024087,Umar Ali,male,18,AI,2,81,84.2059405940594,Karachi,2024-12-13,umar.ali2024087@umar.ali2024087@itar.edu.pk,No,30000.0
+2024088,Nida Khan,female,23,AI,5,80,90.5,Quetta,2024-04-28,nida.khan2024088,No,30000.0
+2024089,Talha Ali,male,19,DS,2,78,93.4,Mardan,2024-12-24,talha.ali2024089@talha.ali2024089@itar.edu.pk,Yes,15000.0
+2024090,Sahar Khan,female,18,DS,1,84,87.5,Peshawar,2024-11-22,sahar.khan2024090@sahar.khan2024090@itar.edu.pk,No,50000.0
+2024091,Fahad Ali,male,23,AI,7,78,84.2059405940594,Kohat,2024-05-08,fahad.ali2024091@fahad.ali2024091@itar.edu.pk,Yes,15000.0
+2024092,Danish Ali,male,22,IT,4,73,84.5,Mardan,2024-04-07,danish.ali2024092@danish.ali2024092@itar.edu.pk,No,30000.0
+2024093,Asad Ali,male,18,SE,2,87,89.9,Quetta,2024-09-06,asad.ali2024093,Yes,15000.0
+2024094,Dua Khan,female,19,IT,3,69,84.2059405940594,Lahore,2024-06-07,dua.khan2024094@dua.khan2024094@itar.edu.pk,No,30000.0
+2024095,Fatima Bibi,female,22,CS,6,80,91.4,Peshawar,2024-03-06,fatima.bibi2024095@fatima.bibi2024095@itar.edu.pk,No,30000.0
+2024096,Yasir Ali,male,21,AI,4,86,92.2,Bannu,2024-09-10,yasir.ali2024096@yasir.ali2024096@itar.edu.pk,Yes,15000.0
+2024097,Ayesha Bibi,female,18,IT,1,82,94.9,Peshawar,2024-07-02,ayesha.bibi2024097@ayesha.bibi2024097@itar.edu.pk,No,50000.0
+2024098,Shahzaib Ali,male,21,IT,3,70,84.2059405940594,Bannu,2024-11-25,shahzaib.ali2024098@shahzaib.ali2024098@itar.edu.pk,No,30000.0
+2024099,Adnan Ali,male,20,SE,2,84,85.2,Islamabad,2024-04-01,adnan.ali2024099@adnan.ali2024099@itar.edu.pk,Yes,15000.0
+2024100,Hina Bibi,female,23,SE,7,73,82.7,Kohat,2024-03-14,hina.bibi2024100,Yes,15000.0
+2024101,Rizwan Ali,male,22,AI,4,86,88.2,Islamabad,2024-03-23,rizwan.ali2024101@rizwan.ali2024101@itar.edu.pk,Yes,15000.0
+2024102,Adeel Ali,male,20,AI,3,91,84.2059405940594,Quetta,2024-08-09,adeel.ali2024102@adeel.ali2024102@itar.edu.pk,Yes,15000.0
+2024103,Maryam Bibi,female,23,IT,5,81,89.8,Swat,2024-04-25,maryam.bibi2024103@maryam.bibi2024103@itar.edu.pk,No,30000.0
+2024104,Junaid Ali,male,25,IT,8,93,89.0,Peshawar,2024-12-31,junaid.ali2024104@junaid.ali2024104@itar.edu.pk,No,30000.0
+2024105,Sohail Ali,male,21,CS,3,89,84.8,Karachi,2024-12-31,sohail.ali2024105@sohail.ali2024105@itar.edu.pk,No,30000.0
+2024106,Zainab Bibi,female,25,SE,8,45,84.2059405940594,Bannu,2024-03-20,zainab.bibi2024106@zainab.bibi2024106@itar.edu.pk,No,30000.0
+2024107,Iqra Bibi,female,19,CS,1,83,85.0,Quetta,2024-03-29,iqra.bibi2024107@iqra.bibi2024107@itar.edu.pk,No,50000.0
+2024108,Kashif Ali,male,25,AI,7,84,84.1,Bannu,2024-10-15,Not Available,Yes,15000.0
+2024109,Salman Ali,male,22,IT,5,78,84.2059405940594,Kohat,2024-02-08,salman.ali2024109@salman.ali2024109@itar.edu.pk,Yes,15000.0
+2024110,Sana Bibi,female,19,CS,3,96,91.1,Peshawar,2024-02-17,sana.bibi2024110@sana.bibi2024110@itar.edu.pk,Yes,15000.0
+2024111,Arslan Ali,male,19,IT,4,81,82.5,Quetta,2024-09-03,arslan.ali2024111,Yes,30000.0
+2024112,Mahnoor Bibi,female,24,IT,6,79,80.6,Kohat,2024-04-27,mahnoor.bibi2024112@mahnoor.bibi2024112@itar.edu.pk,No,30000.0
+2024113,Komal Bibi,female,22,IT,6,71,84.2059405940594,Dera Ismail Khan,2024-07-10,komal.bibi2024113@komal.bibi2024113@itar.edu.pk,No,30000.0
+2024114,Areeba Bibi,female,21,AI,5,81,94.2,Bannu,2024-10-02,areeba.bibi2024114,Yes,15000.0
+2024115,Waqar Ali,male,23,CS,5,81,84.2059405940594,Mardan,2024-04-08,waqar.ali2024115,No,30000.0
+2024116,Shoaib Ali,male,23,SE,6,97,92.0,Bannu,2024-11-14,shoaib.ali2024116@shoaib.ali2024116@itar.edu.pk,Yes,15000.0
+2024117,Irfan Ali,male,23,CS,7,54,63.6,Mardan,2024-06-02,irfan.ali2024117,No,30000.0
+2024118,Noor Bibi,female,23,CS,6,94,92.9,Dera Ismail Khan,2024-06-13,noor.bibi2024118@noor.bibi2024118@itar.edu.pk,Yes,15000.0
+2024119,Mudassar Ali,male,19,DS,3,49,84.2059405940594,Swat,2024-02-24,mudassar.ali2024119@mudassar.ali2024119@itar.edu.pk,No,30000.0
+2024120,Sameer Ali,male,20,CS,2,61,65.0,Mardan,2024-10-16,sameer.ali2024120@sameer.ali2024120@itar.edu.pk,No,30000.0
+2024121,Sidra Bibi,female,18,CS,1,84,89.7,Mardan,2024-03-28,sidra.bibi2024121,No,50000.0
+2024122,Laiba Bibi,female,22,AI,4,76,82.9,Mardan,2024-05-05,laiba.bibi2024122@laiba.bibi2024122@itar.edu.pk,Yes,15000.0
+2024123,Usaid Ali,male,20,DS,3,91,88.8,Peshawar,2024-09-03,usaid.ali2024123@usaid.ali2024123@itar.edu.pk,No,30000.0
+2024124,Anum Bibi,female,19,IT,1,95,90.5,Karachi,2024-09-17,anum.bibi2024124@anum.bibi2024124@itar.edu.pk,Yes,25000.0
+2024125,Haris Ali,male,25,SE,8,86,84.2059405940594,Bannu,2024-03-09,haris.ali2024125@haris.ali2024125@itar.edu.pk,No,30000.0
+2024126,Ahsan Ali,male,18,DS,1,85,89.6,Islamabad,2024-09-09,ahsan.ali2024126@ahsan.ali2024126@itar.edu.pk,No,50000.0
+2024127,Muneeb Ali,male,21,DS,3,74,80.0,Mardan,2024-03-28,muneeb.ali2024127,No,30000.0
+2024128,Mehwish Bibi,female,23,CS,5,70,81.9,Dera Ismail Khan,2024-09-20,mehwish.bibi2024128,No,30000.0
+2024129,Naveed Ali,male,19,SE,2,70,84.2059405940594,Bannu,2024-11-20,naveed.ali2024129@naveed.ali2024129@itar.edu.pk,No,30000.0
+2024130,Rabia Bibi,female,20,DS,2,86,94.5,Swat,2024-12-08,rabia.bibi2024130@rabia.bibi2024130@itar.edu.pk,Yes,15000.0
+2024131,Kamran Ali,male,20,AI,4,78,83.7,Peshawar,2024-12-10,kamran.ali2024131@kamran.ali2024131@itar.edu.pk,Yes,15000.0
+2024132,Kainat Bibi,female,19,CS,2,73,84.2059405940594,Quetta,2024-06-08,kainat.bibi2024132@kainat.bibi2024132@itar.edu.pk,No,30000.0
+2024133,Sadia Bibi,female,23,IT,5,79,91.6,Dera Ismail Khan,2024-08-04,sadia.bibi2024133@sadia.bibi2024133@itar.edu.pk,No,30000.0
+2024134,Shakir Ali,male,23,IT,7,87,84.9,Mardan,2024-01-20,shakir.ali2024134@shakir.ali2024134@itar.edu.pk,Yes,15000.0
+2024135,Aamir Ali,male,20,DS,4,90,84.2059405940594,Swat,2024-02-26,aamir.ali2024135@aamir.ali2024135@itar.edu.pk,Yes,15000.0
+2024136,Zeeshan Ali,male,18,SE,2,73,87.5,Islamabad,2024-03-24,zeeshan.ali2024136@zeeshan.ali2024136@itar.edu.pk,No,30000.0
+2024137,Farhan Ali,male,22,CS,4,79,94.3,Bannu,2024-05-10,farhan.ali2024137,Yes,15000.0
+2024138,Rameez Ali,male,21,IT,5,67,84.2059405940594,Bannu,2024-09-16,rameez.ali2024138@rameez.ali2024138@itar.edu.pk,No,30000.0
+2024139,Jawad Ali,male,23,DS,7,77,87.2,Kohat,2024-09-11,jawad.ali2024139@jawad.ali2024139@itar.edu.pk,No,30000.0
+2024140,Saba Bibi,female,19,SE,1,91,87.2,Peshawar,2024-08-04,saba.bibi2024140@saba.bibi2024140@itar.edu.pk,Yes,25000.0
+2024141,Maham Bibi,female,18,SE,1,82,84.2059405940594,Dera Ismail Khan,2024-12-04,maham.bibi2024141,No,50000.0
+2024142,Rehan Ali,male,19,DS,3,84,82.1,Peshawar,2024-10-11,rehan.ali2024142@rehan.ali2024142@itar.edu.pk,Yes,15000.0
+2024143,Asif Ali,male,21,SE,5,70,84.2059405940594,Dera Ismail Khan,2024-10-11,asif.ali2024143@asif.ali2024143@itar.edu.pk,No,30000.0
+2024144,Eman Bibi,female,20,CS,2,69,84.6,Mardan,2024-07-09,eman.bibi2024144,No,30000.0
+2024145,Haider Ali,male,18,CS,1,95,84.2059405940594,Dera Ismail Khan,2024-01-08,haider.ali2024145@haider.ali2024145@itar.edu.pk,Yes,25000.0

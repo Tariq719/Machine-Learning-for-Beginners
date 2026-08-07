@@ -1,0 +1,3 @@
+I want to learn AI using Python.
+Where we will study Numpy, Pandas,
+Machine Learning and Deep Learning

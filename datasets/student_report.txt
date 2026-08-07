@@ -1,0 +1,11 @@
+Marks Report
+-----------------
+Name: Aisha
+subject: Computer
+institute: IT All Rounders
+ 
+Teacher Report
+-----------------
+Teacher Name: Salma
+Course: Data Analysis
+Academy: IT All Rounders
