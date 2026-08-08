@@ -24,9 +24,9 @@ This project aims to help learners understand how to:
 
 ---
 
-# Project Structure
+## Project Structure
 
-```
+```text
 Machine-Learning-for-Beginners
 │
 ├── notebooks
@@ -38,12 +38,10 @@ Machine-Learning-for-Beginners
 
 ---
 
-# Jupyter Notebooks
-
-The project consists of the following notebooks:
+## Jupyter Notebooks
 
 | Notebook | Description |
-|-----------|-------------|
+|---|---|
 | 1-Python | Python fundamentals |
 | 2-NumPy | Numerical computing with NumPy |
 | 3-Basic Pandas | Data manipulation using Pandas |
@@ -58,7 +56,7 @@ The project consists of the following notebooks:
 
 ---
 
-# Dataset
+## Dataset
 
 This repository includes a custom educational dataset.
 
@@ -74,7 +72,7 @@ The dataset contains information related to student academic performance and is 
 
 ---
 
-# Machine Learning Algorithms
+## Machine Learning Algorithms
 
 This project implements:
 
@@ -83,9 +81,9 @@ This project implements:
 
 ---
 
-# Machine Learning Workflow
+## Machine Learning Workflow
 
-```
+```text
 Dataset
       │
       ▼
@@ -115,7 +113,78 @@ Save Model
 
 ---
 
-# Technologies Used
+# Model Performance
+
+## Linear Regression
+
+| Metric | Score |
+|---|---:|
+| R² Score | **0.083** |
+| Mean Absolute Error (MAE) | **5.062** |
+| Mean Squared Error (MSE) | **36.615** |
+| Root Mean Squared Error (RMSE) | **6.051** |
+
+The model achieved an **R² score of 0.083**, indicating that it explains a relatively small portion of the variation in the target variable.
+
+## Logistic Regression
+
+The Logistic Regression model was evaluated using accuracy, precision, recall, F1-score, and class-wise performance.
+
+### Classification Report
+
+| Class / Average | Precision | Recall | F1-Score | Support |
+|---|---:|---:|---:|---:|
+| Class 0 | **0.71** | **0.59** | **0.65** | 17 |
+| Class 1 | **0.53** | **0.67** | **0.59** | 12 |
+| **Accuracy** | — | — | **0.62** | **29** |
+| **Macro Average** | **0.62** | **0.63** | **0.62** | **29** |
+| **Weighted Average** | **0.64** | **0.62** | **0.62** | **29** |
+
+### Overall Performance
+
+| Metric | Score |
+|---|---:|
+| **Accuracy** | **62%** |
+| **Macro Precision** | **62%** |
+| **Macro Recall** | **63%** |
+| **Macro F1-Score** | **62%** |
+| **Weighted Precision** | **64%** |
+| **Weighted Recall** | **62%** |
+| **Weighted F1-Score** | **62%** |
+
+### Class-wise Performance
+
+| Class | Precision | Recall | F1-Score | Support |
+|---|---:|---:|---:|---:|
+| Class 0 | **71%** | **59%** | **65%** | 17 |
+| Class 1 | **53%** | **67%** | **59%** | 12 |
+
+### Logistic Regression Interpretation
+
+- Accuracy: **62%**
+- Class 0 precision: **71%**
+- Class 0 recall: **59%**
+- Class 0 F1-score: **65%**
+- Class 1 precision: **53%**
+- Class 1 recall: **67%**
+- Class 1 F1-score: **59%**
+- Macro-average F1-score: **62%**
+- Weighted-average precision: **64%**
+- Weighted-average recall: **62%**
+- Weighted-average F1-score: **62%**
+
+---
+
+## Model Summary
+
+| Model | Task | Evaluation Metrics |
+|---|---|---|
+| Linear Regression | Regression | R², MAE, MSE, RMSE |
+| Logistic Regression | Classification | Accuracy, Precision, Recall, F1-Score |
+
+---
+
+## Technologies Used
 
 - Python
 - NumPy
@@ -128,32 +197,32 @@ Save Model
 
 ---
 
-# Trained Models
+## Trained Models
 
-The repository includes trained Machine Learning models.
+The repository includes trained Machine Learning models:
 
-- linear_regression_model.pkl
-- logistic_regression_model.pkl
+- `linear_regression_model.pkl`
+- `logistic_regression_model.pkl`
 
 These models can be loaded using the **Joblib** library without retraining.
 
 ---
 
-# Installation
+## Installation
 
-Clone the repository:
+### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Machine-Learning-for-Beginners.git
+git clone https://github.com/Tariq719/Machine-Learning-for-Beginners.git
 ```
 
-Install the required libraries:
+### Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Launch Jupyter Notebook:
+### Launch Jupyter Notebook
 
 ```bash
 jupyter notebook
@@ -161,7 +230,7 @@ jupyter notebook
 
 ---
 
-# Who is this Project For?
+## Who is this Project For?
 
 This project is suitable for:
 
@@ -174,7 +243,7 @@ This project is suitable for:
 
 ---
 
-# Future Improvements
+## Future Improvements
 
 Future versions of this project will include:
 
@@ -188,7 +257,7 @@ Future versions of this project will include:
 
 ---
 
-# Author
+## Author
 
 **Tariq Nawaz**
 
@@ -198,12 +267,14 @@ Pakistan
 
 ---
 
-# License
+## License
 
-This project is released under the MIT License.
+This project is released under the **MIT License**.
 
 ---
 
-## If you find this project helpful, please consider giving it a ⭐ on GitHub.
+## ⭐ Support
 
-Happy Learning! 🚀
+If you find this project helpful, please consider giving it a ⭐ on GitHub.
+
+**Happy Learning! 🚀**
