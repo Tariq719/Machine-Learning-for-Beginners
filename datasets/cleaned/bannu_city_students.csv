@@ -1,0 +1,30 @@
+student_id,full_name,gender,age,department,semester,marks,attendance_percentage,city,admission_date,email,scholarship,tuition_fee,bonus_marks,final_marks
+2024001,Muhammad Khan,Male,20,SE,4,67.0,80.8,Bannu,1/22/2024,muhammad.khan2024001@itar.edu.pk,Yes,15000.0,5,72.0
+2024004,Hamza Khan,Male,19,DS,2,71.0,85.2,Bannu,20-03-2024,hamza.khan2024004@itar.edu.pk,No,30000.0,5,76.0
+2024014,Fahad Khan,Male,18,SE,1,86.0,82.8,Bannu,3/3/2024,fahad.khan2024014@itar.edu.pk,No,50000.0,5,91.0
+2024015,Danish Khan,Male,24,CS,8,81.0,,Bannu,29-7-2024,danish.khan2024015@itar.edu.pk,No,30000.0,5,86.0
+2024018,Maryam Khan,,22,DS,4,69.0,84.6,Bannu,2/27/2024,,No,30000.0,5,74.0
+2024020,Iqra Khan,Female,24,CS,6,79.0,,Bannu,4/17/2024,iqra.khan2024020@iqra.khan2024020@itar.edu.pk,No,30000.0,5,84.0
+2024026,Ali Ahmad,Male,25,AI,8,105.0,51.3,Bannu,1/25/2024,ali.ahmad2024026@ali.ahmad2024026@itar.edu.pk,Yes,15000.0,5,110.0
+2024030,Kashif Khan,Male,21,SE,4,76.0,90.5,Bannu,11/25/2024,kashif.khan2024030@kashif.khan2024030@itar.edu.pk,No,30000.0,5,81.0
+2024033,Arslan Khan,Male,19,CS,1,81.0,,Bannu,11/25/2024,arslan.khan2024033@arslan.khan2024033@itar.edu.pk,Yes,25000.0,5,86.0
+2024037,Sidra Khan,Female,23,SE,5,86.0,82.2,Bannu,12/1/2024,sidra.khan2024037@sidra.khan2024037@itar.edu.pk,No,30000.0,5,91.0
+2024038,Shoaib Khan,Male,18,Computer Sci,1,89.0,89.4,Bannu,5/31/2024,shoaib.khan2024038@shoaib.khan2024038@itar.edu.pk,No,50000.0,5,94.0
+2024040,Laiba Khan,Female,25,CS,7,,91.8,Bannu,1/27/2024,laiba.khan2024040@laiba.khan2024040@itar.edu.pk,No,30000.0,5,
+2024047,Kainat Khan,Female,24,IT,8,57.0,,Bannu,12/17/2024,,Yes,15000.0,5,62.0
+2024055,Muneeb Khan,Male,25,DS,8,75.0,,Bannu,8/17/2024,muneeb.khan2024055,Yes,15000.0,5,80.0
+2024058,Kamran Khan,Male,20,AI,2,40.0,54.1,Bannu,3/6/2024,kamran.khan2024058,No,30000.0,5,45.0
+2024070,Haider Khan,Male,20,DS,2,73.0,83.3,Bannu,9/3/2024,haider.khan2024070@haider.khan2024070@itar.edu.pk,No,30000.0,5,78.0
+2024073,Sehrish Khan,Female,23,Software Eng,6,86.0,85.7,Bannu,1/30/2024,sehrish.khan2024073@sehrish.khan2024073@itar.edu.pk,No,30000.0,5,91.0
+2024086,Awais Ali,Male,19,SE,2,88.0,84.7,Bannu,10/18/2024,awais.ali2024086,No,30000.0,5,93.0
+2024096,Yasir Ali,m,21,A I,4,86.0,92.2,Bannu,9/10/2024,yasir.ali2024096@yasir.ali2024096@itar.edu.pk,Yes,15000.0,5,91.0
+2024098,Shahzaib Ali,Male,21,IT,3,70.0,,Bannu,11/25/2024,shahzaib.ali2024098@shahzaib.ali2024098@itar.edu.pk,No,30000.0,5,75.0
+2024106,Zainab Bibi,Female,25,SE,8,45.0,,Bannu,3/20/2024,zainab.bibi2024106@zainab.bibi2024106@itar.edu.pk,No,30000.0,5,50.0
+2024108,Kashif Ali,Male,25,AI,7,84.0,84.1,Bannu,10/15/2024,,Yes,15000.0,5,89.0
+2024114,Areeba Bibi,Female,21,A.I,5,81.0,94.2,Bannu,10/2/2024,areeba.bibi2024114,Yes,15000.0,5,86.0
+2024116,Shoaib Ali,Male,23,SE,6,97.0,92.0,Bannu,11/14/2024,shoaib.ali2024116@shoaib.ali2024116@itar.edu.pk,Yes,15000.0,5,102.0
+2024125,Haris Ali,Male,25,SE,8,86.0,,Bannu,3/9/2024,haris.ali2024125@haris.ali2024125@itar.edu.pk,No,30000.0,5,91.0
+2024129,Naveed Ali,Male,19,SE,2,70.0,,Bannu,11/20/2024,naveed.ali2024129@naveed.ali2024129@itar.edu.pk,No,30000.0,5,75.0
+2024137,Farhan Ali,Male,22,CS,4,-10.0,94.3,Bannu,5/10/2024,farhan.ali2024137,Yes,15000.0,5,-5.0
+2024138,Rameez Ali,Male,21,IT,5,67.0,,Bannu,9/16/2024,rameez.ali2024138@rameez.ali2024138@itar.edu.pk,No,30000.0,5,72.0
+2024026,Ali Ahmad,Male,25,AI,8,105.0,51.3,Bannu,1/25/2024,ali.ahmad2024026@ali.ahmad2024026@itar.edu.pk,Yes,15000.0,5,110.0
